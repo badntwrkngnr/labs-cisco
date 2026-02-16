@@ -83,6 +83,7 @@ Configuração de rotas estáticas IPv4 e IPv6, e troubleshooting de roteamento.
 - `05_config-lab_ipv4-static-routes-3/`
 - `06_config-lab_ipv6-static-routes-1/`
 - `07_config-lab_ipv6-static-routes-2/`
+- `08_config-lab_ipv4-static-routes-practice-exam-question-1/`
 
 #### `dynamic-routing/` - Roteamento Dinâmico
 
